@@ -1,4 +1,4 @@
-#For basic statistics used in bioioformatics
+#For basic statistics used in bioinformatics
 
 #The online learning material
 (1) statquest 
