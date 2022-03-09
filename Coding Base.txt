@@ -2,3 +2,9 @@ Two recommended website to strengthen your coding ability:
 
 (1) https://www.codewars.com/
 (2) https://www.datacamp.com/
+
+
+Leetcode:
+
+(1) https://github.com/csujedihy/lc-all-solutions
+(2) https://github.com/cnkyrpsgl/leetcode
